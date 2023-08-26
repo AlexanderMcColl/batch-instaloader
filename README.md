@@ -39,7 +39,3 @@ https://docs.google.com/spreadsheets/d/14oC_ZjHHk_nnnS6YYvPz4jUb-igfXLkZKlfSRS8g
 6. Delete `df.csv`, clear the Sheet and fill it up again.
 7. Periodically delete all the extra fluff that gets downloaded;\
    Search for .json, .jpg (careful of unintentional image deletions).
-
-## Coming next
-
-Use Python native csv.DictReader which is apparently faster, and won't need Pandas.
